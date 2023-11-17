@@ -1,0 +1,29 @@
+{
+  "name": "wraiths-dev-moderasyonv14",
+  "version": "9.9.9",
+  "description": "Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "WraithsDev",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/rest": "^1.1.0",
+    "@discordjs/voice": "^0.16.0",
+    "captcha-canvas": "^3.2.1",
+    "croxydb": "^0.0.7",
+    "discord-api-types": "^0.37.5",
+    "discord.js": "^14.13.0",
+    "express": "^4.18.2",
+    "inflames.db": "^4.3.3",
+    "moment": "^2.29.4",
+    "moment-duration-format": "^2.3.2",
+    "os": "^0.1.2",
+    "quick.db": "^9.1.7",
+    "request": "^2.88.2"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
